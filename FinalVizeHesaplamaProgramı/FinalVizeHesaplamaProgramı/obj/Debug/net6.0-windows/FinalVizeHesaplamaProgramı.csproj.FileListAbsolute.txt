@@ -1,0 +1,17 @@
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\bin\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.exe
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\bin\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.deps.json
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\bin\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.runtimeconfig.json
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\bin\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.dll
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\bin\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.pdb
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.Form1.resources
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.AssemblyInfoInputs.cache
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.AssemblyInfo.cs
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.dll
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\refint\FinalVizeHesaplamaProgramı.dll
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.pdb
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\FinalVizeHesaplamaProgramı.genruntimeconfig.cache
+C:\Users\ens_s\Desktop\Software\FinalVizeHesaplamaProgramı\FinalVizeHesaplamaProgramı\obj\Debug\net6.0-windows\ref\FinalVizeHesaplamaProgramı.dll
